@@ -1,0 +1,93 @@
+{
+  "name": "Lemon",
+  "firstIntro": "Hey! I'm Bhargav — a fresh-faced developer who fell in love with building things that actually work (most of the time)",
+  "about": "A fresh dev with just enough energy to start too many projects and somehow finish most of them. Always chasing that clean, fast, and satisfying build. <br/><br/>Currently obsessed with building backend-heavy, feature-rich apps that can scale like crazy (or at least try to so I can eventually land a decent job and touch grass once in a while).<br/><br/>Java and TypeScript are my go-to languages—nothing else quite clicks like these two.<br/><br/>As soon as college looks away, I'm back in my editor making questionable life choices in code<br/><br/>I don’t always know what I’m building… but I’m definitely building something.<br/><br/>I didn’t plan to be a dev — I just kind of stuck with the one thing that didn’t completely confuse me.",
+  "workStation": "My main OS is Ubuntu Linux, which I use alongside Windows in a dual boot setup. <br/><br/> I initially switched because I couldn't stand how much RAM Windows needed, but now I actually enjoy the balance of both and plan to stick with this setup for a while.",
+  "hobbies": "Playing  games and coding are some of the things I love doing the most<br><br>I still dunnou what to write here JHDSUOAHFAHDFAJDHFAJKHDAF<br><br><br>:3",
+  "messageList": [
+    "I once debugged a WebSocket issue at 2 AM... and it worked only because I restarted the server",
+    "I like my code like my coffee: clean, strong, and preferably error-free",
+    "Docker made my life easier... until I forgot I mapped the wrong port",
+    "I believe in writing code that my future self won’t curse me for",
+    "If it runs on localhost:3000, it's basically done, right?",
+    "Don't ask me why I like the name Lemon — it just feels right, okay?",
+    "Yes, I *do* talk to my code. It helps. Don't judge",
+    "I like building stuff that works—and then figuring out why it broke",
+    "Nothing feels better than seeing `Connected to server` on the first try",
+    "JavaScript and I had a good run… but once TypeScript came along, I knew it was over",
+    "I know I'm not the most talkative person, but bring up a project, and suddenly I can't stop talking",
+    "I don't know if it's imposter syndrome or just realistic self-awareness at this point.",
+    "I’ve broken production once... okay, twice... maybe a few more times...... let’s not count"
+  ],
+  "technologies": [
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg", "alt": "ts Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg", "alt": "aws Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg", "alt": "C++ Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg", "alt": "Docker Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg", "alt": "java Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg", "alt": "mongodb Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg", "alt": "postgre Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg", "alt": "postman Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg", "alt": "prisma Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg", "alt": "react Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg", "alt": "redux Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg", "alt": "redis Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg", "alt": "kafka Icon" },
+    { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg", "alt": "nextjs Icon" },
+    { "src": "https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png", "alt": "JWT Icon" }
+  ],
+  "socials": [
+    {
+      "href": "https://github.com/Unknownlemon03",
+      "src": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "alt": "Lemon Github page"
+    },
+    {
+      "href": "https://www.linkedin.com/in/bhargavshirke/",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png",
+      "alt": "Kimu's Youtube channel"
+    },
+    {
+      "href": "https://drive.google.com/file/d/186AWH4GVjftTQGQ9Y6lPr0qIdPh3bMcs/view",
+      "src": "https://cdn-icons-png.freepik.com/256/942/942748.png",
+      "alt": "Resume"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Virtual Collaboration Platform",
+      "description": "A real-time collaboration platform (Game) with customizable spaces, avatars, and video chat.",
+      "image": "",
+      "technologies": ["TypeScript", "Next.js", "Socket.IO", "PostgreSQL", "Prisma", "JWT", "Livekit", "Tailwind CSS", "Phaser.js", "Zod"],
+      "github": "https://github.com/UnknownLemon03/virtual-collaboration-platform"
+    },
+    {
+      "title": "Workflow Automation",
+      "description": "Your project automates tasks by connecting various services, triggering actions based on predefined events, and streamlining workflows for enhanced efficiency and seamless integration.",
+      "image": "",
+      "technologies": ["TypeScript", "Java", "Next.js", "Spring Boot", "Kafka", "MySQL", "Hibernate", "Tailwind CSS", "ShardCN", "JWT"],
+      "github": "https://github.com/UnknownLemon03/workflows-automation"
+    },
+    {
+      "title": "Smart E-Commerce Bookstore with Book Recommendations",
+      "description": "An e-commerce platform with ebook reader and book recommendations using book description.",
+      "image": "",
+      "technologies": ["Next.js", "Tailwind CSS", "TypeScript", "Node.js", "PostgreSQL", "Zod", "Prisma", "Python", "Flask", "scikit-learn", "Docker"],
+      "github": "https://github.com/UnknownLemon03/Ebook-ecommerce"
+    },
+    {
+      "title": "Restaurant Management System",
+      "description": "A real-time restaurant bill management system with data synchronization for collaboration",
+      "image": "",
+      "technologies": ["React", "Redux", "Tailwind CSS", "Chart.js", "Node.js", "Express", "Socket.IO", "MongoDB"],
+      "github": "https://github.com/UnknownLemon03/restaurants-management"
+    },
+    {
+      "title": "Property Listing System",
+      "description": "A full-stack property listing platform with authentication, advanced filtering, favorites, caching, and property recommendations.",
+      "image": "",
+      "technologies": ["Next.js", "Tailwind CSS", "TypeScript", "Node.js", "Express", "MongoDB", "Redis", "Swagger"],
+      "github": "https://github.com/UnknownLemon03/lemon-property"
+    }
+  ]
+}
