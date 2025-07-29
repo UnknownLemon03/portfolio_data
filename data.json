@@ -56,6 +56,25 @@
   ],
   "projects": [
     {
+      "title": "Distributed Betting",
+      "description": "A low-latency, microservices-based trading and betting platform for real-time stock trading and match betting using gRPC, Kafka, and Saga pattern. Built for speed, resilience, and concurrency.",
+      "image": "",
+      "technologies": [
+        "Go",
+        "Java",
+        "Spring Boot",
+        "gRPC",
+        "Apache Kafka",
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes (planned)",
+        "JWT",
+        "Keycloak"
+      ],
+      "github": "https://github.com/UnknownLemon03/distributed-betting"
+    }
+    ,{
       "title": "Virtual Collaboration Platform",
       "description": "A real-time collaboration platform (Game) with customizable spaces, avatars, and video chat.",
       "image": "",
