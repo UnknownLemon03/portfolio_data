@@ -21,7 +21,7 @@
   ],
   "technologies": [
     { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg", "alt": "ts Icon" },
-    { "src": "https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg", "alt": "golang Icon" },
+    { "src": "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg", "alt": "golang Icon" },
     { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg", "alt": "aws Icon" },
     { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg", "alt": "C++ Icon" },
     { "src": "https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg", "alt": "Docker Icon" },
