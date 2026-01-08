@@ -53,6 +53,16 @@
       "href": "https://drive.google.com/file/d/186AWH4GVjftTQGQ9Y6lPr0qIdPh3bMcs/view",
       "src": "https://cdn-icons-png.freepik.com/256/942/942748.png",
       "alt": "Resume"
+    },
+    {
+      "href": "https://leetcode.com/u/unknownlemon/",
+      "src": "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-svg-download-png-2944960.png",
+      "alt": "Leetcode"
+    },
+    {
+      "href": "https://codeforces.com/profile/Unknown_Lemon",
+      "src": "https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png",
+      "alt": "Codeforces"
     }
   ],
   "projects": [
