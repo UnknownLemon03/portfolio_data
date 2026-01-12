@@ -67,6 +67,26 @@
   ],
   "projects": [
     {
+      "title": "DDoS Detection & Protection SaaS",
+      "description": "A distributed, real-time DDoS detection and mitigation system that analyzes network traffic using machine learning and automatically blocks malicious IPs via a custom Go-based proxy gateway. Designed for low latency, reliability, and scalable protection.",
+      "image": "",
+      "technologies": [
+        "Go",
+        "Python",
+        "Gin",
+        "GORM",
+        "Apache Kafka",
+        "PostgreSQL",
+        "Redis",
+        "PyTorch",
+        "scikit-learn",
+        "TShark",
+        "Docker",
+        "JWT"
+      ],
+      "github": "https://github.com/your-username/ddos-detection-saas"
+    },
+    {
       "title": "Distributed Betting",
       "description": "A low-latency, microservices-based trading and betting platform for real-time stock trading and match betting using gRPC, Kafka, and Saga pattern. Built for speed, resilience, and concurrency.",
       "image": "",
@@ -83,8 +103,8 @@
         "Keycloak"
       ],
       "github": "https://github.com/UnknownLemon03/distributed-betting"
-    }
-    ,{
+    },
+    {
       "title": "Virtual Collaboration Platform",
       "description": "A real-time collaboration platform (Game) with customizable spaces, avatars, and video chat.",
       "image": "",
