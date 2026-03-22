@@ -5,17 +5,9 @@
   "workStation": "My main OS is Ubuntu Linux, which I use alongside Windows in a dual boot setup. <br/><br/> I initially switched because I couldn't stand how much RAM Windows needed, but now I actually enjoy the balance of both and plan to stick with this setup for a while.",
   "hobbies": "Playing  games and coding are some of the things I love doing the most<br><br>I still dunnou what to write here JHDSUOAHFAHDFAJDHFAJKHDAF<br><br><br>:3",
   "messageList": [
-    "I once debugged a WebSocket issue at 2 AM... and it worked only because I restarted the server",
-    "I like my code like my coffee: clean, strong, and preferably error-free",
-    "Docker made my life easier... until I forgot I mapped the wrong port",
-    "I believe in writing code that my future self won’t curse me for",
     "If it runs on localhost:3000, it's basically done, right?",
     "Don't ask me why I like the name Lemon — it just feels right, okay?",
-    "Yes, I *do* talk to my code. It helps. Don't judge",
-    "I like building stuff that works—and then figuring out why it broke",
     "Nothing feels better than seeing `Connected to server` on the first try",
-    "JavaScript and I had a good run… but once TypeScript came along, I knew it was over",
-    "I know I'm not the most talkative person, but bring up a project, and suddenly I can't stop talking",
     "I don't know if it's imposter syndrome or just realistic self-awareness at this point.",
     "I’ve broken production once... okay, twice... maybe a few more times...... let’s not count"
   ],
